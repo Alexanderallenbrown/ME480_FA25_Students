@@ -21,7 +21,7 @@ opener = """
 <!DOCTYPE html>
 <html>
 <head></head>
-<body><h1 style="text-align: center">ME480 FA22 Released Materials</h1>
+<body><h1 style="text-align: center">ME480 FA25 Released Materials</h1>
 <p style="text-align: center"> Last Updated:    """+str(date_time)+"""</p>
 <div style="border: solid 2px black; border-radius: 10px; text-align: center; width: 50vw;margin-left: auto; margin-right: auto">
 <br><br>
